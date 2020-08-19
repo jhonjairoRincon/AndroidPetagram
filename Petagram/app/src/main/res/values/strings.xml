@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="title_activity_second">ScrollingActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">nombre</string>
+    <string name="like">0</string>
+    <string name="fyru">fyru</string>
+
+</resources>
